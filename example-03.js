@@ -9,9 +9,3 @@ const numero = 10;
 const parOuImpar = numero % 2 === 0 ? 'par' : 'ímpar';
 
 console.log(parOuImpar);
-
-function sum(a, b) {
-
-    return a + b;
-
-}
